@@ -1,2 +1,5 @@
-# Image-Denoising
-An image denoising autoencoder using Keras with Tensorflow 2.0 as a backend
+# Applications of Autoencoders
+
+A collection of autoencoders that can be used for:
+1. Denoising images
+2. Improving the resolution of images
